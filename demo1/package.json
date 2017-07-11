@@ -1,0 +1,17 @@
+{
+  "name": "wp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "dependencies": {
+    "webpack-dev-server": "^2.5.1",
+    "webpack": "^3.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --inline"
+  },
+  "author": "",
+  "license": "ISC"
+}
